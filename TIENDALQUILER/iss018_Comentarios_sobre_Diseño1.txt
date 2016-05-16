@@ -1,0 +1,4 @@
+Campano, Miguel.
+Espeso, Victor.
+
+En el ControladorDescripcion linea 142 nos deja de funcionar, hemos usado el debugger y podemos observar que al intentar recuperar la descripcion lo que nos devuelve es un null. Nos parece extraño dado que utilizando la misma sentencia en distintos metodos, no nos ha generado ningun problema.
